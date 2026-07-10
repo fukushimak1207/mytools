@@ -1,0 +1,23 @@
+# 機密ファイル（保険）
+*.env
+.env*
+*.pem
+*.p12
+*.pfx
+*.cer
+*.key
+id_rsa
+id_ed25519
+*credential*
+*secret*
+*token*
+firebase-*.json
+gcp-*.json
+aws-*.json
+
+# OS / エディタ
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
